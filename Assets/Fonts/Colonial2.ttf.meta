@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 09b6cb08be9bc01459b22f553cd91cf5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colonial
+  fontNames:
+  - Colonial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d37d7d4c9deabfc419a56e2813d57f6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
